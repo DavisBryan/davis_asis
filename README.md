@@ -1,2 +1,3 @@
 # davis_asis
 Cryptonight
+2/1/2018 I plan to creat a coin based on Cryptonight.
