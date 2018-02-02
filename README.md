@@ -1,0 +1,2 @@
+# davis_asis
+Cryptonight
